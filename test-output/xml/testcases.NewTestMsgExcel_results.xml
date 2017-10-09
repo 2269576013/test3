@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.870">
+  <properties />
+  
+  
+            <testcase name="testUntitled" time="15.870" classname="testcases.NewTestMsgExcel" />
+      
+</testsuite>

@@ -1,0 +1,8 @@
+Logical_Name,Locator_Type,Locator
+MessagePage,Module,
+name_editbox_locator,name,name
+email_editbox_locator,name,e-mail
+msg_editbox_locator,name,comments
+done_button_locator,xpath,//*[@value='Íê ³É']
+SelectPage,Module,
+settings_dropdown_locator,id,menus_navlist

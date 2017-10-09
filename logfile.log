@@ -1,0 +1,12 @@
+2017-09-08 10:27:45,688 INFO  Try to start Firefox 
+2017-09-08 10:28:02,234 INFO  Browser type is firefox 
+2017-09-08 10:28:02,261 INFO  Firefox started 
+2017-09-08 10:28:02,377 INFO  Page opened 
+2017-09-08 10:28:10,483 INFO  test data: zhangsan is input. 
+2017-09-08 10:28:11,848 INFO  test data: zhangsan@163.com is input. 
+2017-09-08 10:28:12,733 INFO  test data: Hello,zhangsan is input. 
+2017-09-08 10:28:12,733 INFO  Input test data 
+2017-09-08 10:28:14,018 INFO  [[FirefoxDriver: firefox on WINDOWS (170c6084-b0f3-4ab6-bdf6-6307383ed506)] -> xpath: //*[@value='Íê ³É']] is clicked. 
+2017-09-08 10:28:14,262 INFO  click done button 
+2017-09-08 10:28:14,288 INFO  Assert page title 
+2017-09-08 10:28:16,995 INFO  Firefox quit 
