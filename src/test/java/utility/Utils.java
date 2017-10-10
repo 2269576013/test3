@@ -202,6 +202,7 @@ public static void waitForJSResult()throws Exception {
 //	Log.info(element+" is clicked.");
 //	waitforJSLoad();	
 //}
+
 public static void elementClick(String logical_name) throws Exception{
 	try {
 		WebElement element ;
