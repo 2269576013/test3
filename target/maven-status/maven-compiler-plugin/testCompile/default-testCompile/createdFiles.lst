@@ -1,6 +1,5 @@
 testcases\CreateSupplyManagementRecordfromExcel.class
 testcases\NewTestFirefox.class
-utility\Contants.class
 testcases\NewTestMsgExcel.class
 utility\ExcelData.class
 testcases\NewTestMsg.class

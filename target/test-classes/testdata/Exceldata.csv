@@ -1,8 +1,7 @@
-logical Name,Value,Flag
-SendMsg TestCases,MODULE,
-SendMsg,,y
-name,zhangsan,
-email,zhangsan@163.com,
-msg,HelloZhangsan,
-Select TestCases,MODULE,
-selContent,会员列表,
+logical Name,Value
+SendMsg TestCases,MODULE
+name,zhangsan
+email,zhangsan@163.com
+msg,HelloZhangsan
+Select TestCases,MODULE
+selContent,会员列表
