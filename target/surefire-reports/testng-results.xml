@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="33091" started-at="2017-10-11T07:37:08Z" finished-at="2017-10-11T07:37:42Z">
+  <suite name="Suite" duration-ms="31135" started-at="2017-10-12T08:32:11Z" finished-at="2017-10-12T08:32:42Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="33091" started-at="2017-10-11T07:37:08Z" finished-at="2017-10-11T07:37:42Z">
+    <test name="Test11" duration-ms="31135" started-at="2017-10-12T08:32:11Z" finished-at="2017-10-12T08:32:42Z">
+      <class name="testcases.NewTestFirefox">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.NewTestFirefox@b80f214]" name="beforeMethod" is-config="true" duration-ms="4916" started-at="2017-10-12T16:32:36Z" finished-at="2017-10-12T16:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testcases.NewTestFirefox@b80f214]" name="f" duration-ms="0" started-at="2017-10-12T16:32:41Z" finished-at="2017-10-12T16:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.NewTestFirefox@b80f214]" name="afterMethod" is-config="true" duration-ms="1259" started-at="2017-10-12T16:32:41Z" finished-at="2017-10-12T16:32:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.NewTestFirefox -->
       <class name="testcases.NewTestMsgExcel">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.NewTestMsgExcel@439a83f3]" name="setUp" is-config="true" duration-ms="21079" started-at="2017-10-11T15:37:08Z" finished-at="2017-10-11T15:37:29Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.NewTestMsgExcel@11bfdd14]" name="setUp" is-config="true" duration-ms="11141" started-at="2017-10-12T16:32:11Z" finished-at="2017-10-12T16:32:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testUntitled()[pri:0, instance:testcases.NewTestMsgExcel@439a83f3]" name="testUntitled" duration-ms="10530" started-at="2017-10-11T15:37:29Z" finished-at="2017-10-11T15:37:40Z">
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:testcases.NewTestMsgExcel@11bfdd14]" name="testUntitled" duration-ms="12931" started-at="2017-10-12T16:32:22Z" finished-at="2017-10-12T16:32:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUntitled -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.NewTestMsgExcel@439a83f3]" name="tearDown" is-config="true" duration-ms="1482" started-at="2017-10-11T15:37:40Z" finished-at="2017-10-11T15:37:42Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.NewTestMsgExcel@11bfdd14]" name="tearDown" is-config="true" duration-ms="858" started-at="2017-10-12T16:32:35Z" finished-at="2017-10-12T16:32:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testcases.NewTestMsgExcel -->
-    </test> <!-- Test -->
+    </test> <!-- Test11 -->
   </suite> <!-- Suite -->
 </testng-results>

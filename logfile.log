@@ -1,6 +1,7 @@
-2017-10-11 15:37:09,099 INFO  Try to start Firefox 
-2017-10-11 15:37:29,865 INFO  Firefox started 
-2017-10-11 15:37:31,114 INFO  Page opened 
-2017-10-11 15:37:40,490 INFO  Input test data 
-2017-10-11 15:37:40,521 INFO  Assert page title 
-2017-10-11 15:37:42,003 INFO  Firefox quit 
+2017-10-12 16:32:11,769 INFO  Try to start Firefox 
+2017-10-12 16:32:22,504 INFO  Firefox started 
+2017-10-12 16:32:22,692 INFO  Page opened 
+2017-10-12 16:32:35,435 INFO  Input test data 
+2017-10-12 16:32:35,466 INFO  Assert page title 
+2017-10-12 16:32:36,324 INFO  Firefox quit 
+2017-10-12 16:32:41,240 INFO  11111111111111111111111111 

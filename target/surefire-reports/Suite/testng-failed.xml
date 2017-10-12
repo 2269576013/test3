@@ -5,8 +5,14 @@
     <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
   </listeners>
-  <test name="Test(failed)" parallel="none">
+  <test name="Test1(failed)" parallel="none">
     <classes>
+      <class name="testcases.NewTestFirefox">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- testcases.NewTestFirefox -->
       <class name="testcases.NewTestMsgExcel">
         <methods>
           <include name="testUntitled"/>
@@ -15,5 +21,5 @@
         </methods>
       </class> <!-- testcases.NewTestMsgExcel -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->

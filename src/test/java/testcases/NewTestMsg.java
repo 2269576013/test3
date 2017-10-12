@@ -43,6 +43,7 @@ public class NewTestMsg {
     Log.info("Assert page title");
   }
 
+  
   @AfterClass(alwaysRun = true)
   public void tearDown() throws Exception {
     driver.quit();
