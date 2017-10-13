@@ -5,7 +5,7 @@
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
 	</listeners>
-	<test name="Test111">
+	<test name="Test111111">
 		<classes>
 			<class name="testcases.NewTestMsgExcel"/>
 			<class name="testcases.NewTestFirefox"/>
